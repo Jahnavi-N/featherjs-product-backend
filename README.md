@@ -8,7 +8,7 @@ Install [mongodb](https://www.mongodb.com/) then create a database called `upgra
 
 
 
-`cd feathersjs-menu-monkey-backend`
+`cd feathersjs-product-backend`
 
 `npm install`
 
